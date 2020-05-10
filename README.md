@@ -1,8 +1,31 @@
 Панче Дубровски 171307 Семинарска по предметот веб програмирање Финки
 
-Апликација за резеервирање на авионски карти
+Апликација за резервирање на авионски карти
+Овој проект е наменет за онлајн преглед на летоив и резервација на авионски карти
+има две улоги администратор и корисник. 
+Администарто има има преглед на патници кои резервирале карта за одреден лет.
 
-backend moze da se importira vo IntelliJ  so maven 
-a frontend prvent npm install pa npm start 
+За стартување на бекенд треба да ја стартувате на калсата ProektApplication
+и поврзување на базата и стартување na docker-compose.yml
+со 
+username: postgres
+нема лозинка
+и старување на фроненд со 
+npm install 
+npm start 
+
+проект има 1 администараторски акаунт 
+username: admin
+password: password
+
+i eden akaunt za korisnik 
+username : user2
+passwrod : password
+
+
+
+
+
+
 
 
