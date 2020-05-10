@@ -1,0 +1,19 @@
+
+
+
+
+#card {
+    background-color: cornflowerblue;
+    color: white;
+
+}
+#button{
+    color: black;
+}
+#btn{
+    height: 30px;
+    width:30px;
+    border-radius: 100%;
+    margin: 20px;
+}
+
